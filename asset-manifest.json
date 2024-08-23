@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/telegram-clicker-build/static/css/main.e6c13ad2.css",
-    "main.js": "/telegram-clicker-build/static/js/main.16e96f90.js",
+    "main.js": "/telegram-clicker-build/static/js/main.35d3cd34.js",
     "static/media/account.svg": "/telegram-clicker-build/static/media/account.87db1cc536741b9f3ed68d5c9134d11a.svg",
     "static/media/account-active.svg": "/telegram-clicker-build/static/media/account-active.7516830a5318a608ea216a81728401ab.svg",
     "static/media/logo.svg": "/telegram-clicker-build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
@@ -11,10 +11,10 @@
     "static/media/search.svg": "/telegram-clicker-build/static/media/search.4fd78eb4f3fa0fa9fff9c0cb6a4aada9.svg",
     "index.html": "/telegram-clicker-build/index.html",
     "main.e6c13ad2.css.map": "/telegram-clicker-build/static/css/main.e6c13ad2.css.map",
-    "main.16e96f90.js.map": "/telegram-clicker-build/static/js/main.16e96f90.js.map"
+    "main.35d3cd34.js.map": "/telegram-clicker-build/static/js/main.35d3cd34.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.16e96f90.js"
+    "static/js/main.35d3cd34.js"
   ]
 }
