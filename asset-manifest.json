@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/telegram-clicker-build/static/css/main.e6c13ad2.css",
-    "main.js": "/telegram-clicker-build/static/js/main.7c8f7733.js",
+    "main.js": "/telegram-clicker-build/static/js/main.97d6551d.js",
+    "static/media/avatar-mock2.png": "/telegram-clicker-build/static/media/avatar-mock2.0da621ce05238b340f6e.png",
+    "static/media/avatar-mock3.png": "/telegram-clicker-build/static/media/avatar-mock3.483642e6fd6a27101dc1.png",
+    "static/media/avatar-mock.png": "/telegram-clicker-build/static/media/avatar-mock.50926e595b5fbea35205.png",
     "static/media/account.svg": "/telegram-clicker-build/static/media/account.87db1cc536741b9f3ed68d5c9134d11a.svg",
     "static/media/account-active.svg": "/telegram-clicker-build/static/media/account-active.7516830a5318a608ea216a81728401ab.svg",
-    "static/media/logo.svg": "/telegram-clicker-build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/home-active.svg": "/telegram-clicker-build/static/media/home-active.8bb43fa9bd4a47c98e30dc17011553fc.svg",
     "static/media/home.svg": "/telegram-clicker-build/static/media/home.270e5734bb9e66982c29e4a1f4bbb81c.svg",
     "static/media/search-active.svg": "/telegram-clicker-build/static/media/search-active.c629f6334eb2c92e998f2fc9542de874.svg",
     "static/media/search.svg": "/telegram-clicker-build/static/media/search.4fd78eb4f3fa0fa9fff9c0cb6a4aada9.svg",
     "index.html": "/telegram-clicker-build/index.html",
     "main.e6c13ad2.css.map": "/telegram-clicker-build/static/css/main.e6c13ad2.css.map",
-    "main.7c8f7733.js.map": "/telegram-clicker-build/static/js/main.7c8f7733.js.map"
+    "main.97d6551d.js.map": "/telegram-clicker-build/static/js/main.97d6551d.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7c8f7733.js"
+    "static/js/main.97d6551d.js"
   ]
 }
