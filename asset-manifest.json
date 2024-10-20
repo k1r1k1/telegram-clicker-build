@@ -1,10 +1,14 @@
 {
   "files": {
     "main.css": "/telegram-clicker-build/static/css/main.e6c13ad2.css",
-    "main.js": "/telegram-clicker-build/static/js/main.ddb47cef.js",
-    "static/media/avatar-mock2.png": "/telegram-clicker-build/static/media/avatar-mock2.0da621ce05238b340f6e.png",
-    "static/media/avatar-mock3.png": "/telegram-clicker-build/static/media/avatar-mock3.483642e6fd6a27101dc1.png",
-    "static/media/avatar-mock.png": "/telegram-clicker-build/static/media/avatar-mock.50926e595b5fbea35205.png",
+    "main.js": "/telegram-clicker-build/static/js/main.82268b8f.js",
+    "static/media/mzucker.png": "/telegram-clicker-build/static/media/mzucker.a5634901d7e1618fd20e.png",
+    "static/media/clarkson.png": "/telegram-clicker-build/static/media/clarkson.b6d8f4996f82274a0483.png",
+    "static/media/elnmask.png": "/telegram-clicker-build/static/media/elnmask.1aa6d721547cb806de15.png",
+    "static/media/brief_boss.png": "/telegram-clicker-build/static/media/brief_boss.483642e6fd6a27101dc1.png",
+    "static/media/ibragim1986.png": "/telegram-clicker-build/static/media/ibragim1986.b7ac2c412c4759da7db2.png",
+    "static/media/natasha_69.png": "/telegram-clicker-build/static/media/natasha_69.3558155355827877aa46.png",
+    "static/media/artisticmind.png": "/telegram-clicker-build/static/media/artisticmind.60b2f68914be74dcd75a.png",
     "static/media/account.svg": "/telegram-clicker-build/static/media/account.87db1cc536741b9f3ed68d5c9134d11a.svg",
     "static/media/account-active.svg": "/telegram-clicker-build/static/media/account-active.7516830a5318a608ea216a81728401ab.svg",
     "static/media/home-active.svg": "/telegram-clicker-build/static/media/home-active.8bb43fa9bd4a47c98e30dc17011553fc.svg",
@@ -13,10 +17,10 @@
     "static/media/search.svg": "/telegram-clicker-build/static/media/search.4fd78eb4f3fa0fa9fff9c0cb6a4aada9.svg",
     "index.html": "/telegram-clicker-build/index.html",
     "main.e6c13ad2.css.map": "/telegram-clicker-build/static/css/main.e6c13ad2.css.map",
-    "main.ddb47cef.js.map": "/telegram-clicker-build/static/js/main.ddb47cef.js.map"
+    "main.82268b8f.js.map": "/telegram-clicker-build/static/js/main.82268b8f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ddb47cef.js"
+    "static/js/main.82268b8f.js"
   ]
 }
